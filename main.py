@@ -5,8 +5,8 @@ import logging
 from telethon import TelegramClient, events
 import g4f
 
-api_id = '20045757'
-api_hash = '7d3ea0c0d4725498789bd51a9ee02421'
+api_id = '22074637'
+api_hash = 'ceb798dd4af3a7c3c0567dcbd63e33a4'
 session_name = 'GPT4o'
 phone = '+380684015069'
 allowed_user_id = 1335063985
